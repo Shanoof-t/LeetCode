@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shanoof-t/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
