@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -17,6 +18,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/3379-score-of-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
