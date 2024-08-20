@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
