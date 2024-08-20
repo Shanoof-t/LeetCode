@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
