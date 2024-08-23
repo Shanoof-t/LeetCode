@@ -52,10 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shanoof-t/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Shanoof-t/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shanoof-t/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
