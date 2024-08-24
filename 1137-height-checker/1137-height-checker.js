@@ -4,11 +4,11 @@
  */
 var heightChecker = function(heights) {
     let expected = [...heights].sort((a,b)=>a-b)
-    let res=[]
+    let res=0
     for(i=0;i<heights.length;i++){
         if(heights[i] !== expected[i]){
-            res.push(i)
+            res++
         }
     }
-    return res.length
+    return res
 };
