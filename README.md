@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanoof-t/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Shanoof-t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Shanoof-t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shanoof-t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
 ## Two Pointers
