@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shanoof-t/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Shanoof-t/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Shanoof-t/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shanoof-t/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
 |  |
 | ------- |
