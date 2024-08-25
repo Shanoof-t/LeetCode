@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanoof-t/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanoof-t/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
