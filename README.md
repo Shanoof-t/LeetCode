@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Shanoof-t/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1899-count-items-matching-a-rule](https://github.com/Shanoof-t/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shanoof-t/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shanoof-t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+| [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
