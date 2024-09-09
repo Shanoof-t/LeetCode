@@ -5,9 +5,9 @@
  */
 var findPermutationDifference = function(s, t) {
     let res=0
-    let a = s.split("")
-    for(i=0;i<a.length;i++){
-        res+=Math.abs(i - t.indexOf(a[i]))
+    // let a = s.split("")
+    for(i=0;i<s.length;i++){
+        res+=Math.abs(i - t.indexOf(s[i]))
     }
     return res
 };
