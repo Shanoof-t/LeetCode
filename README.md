@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shanoof-t/LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Shanoof-t/LeetCode/tree/master/0412-fizz-buzz) |
 | [3371-harshad-number](https://github.com/Shanoof-t/LeetCode/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/Shanoof-t/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Shanoof-t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanoof-t/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/Shanoof-t/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Sorting
 |  |
 | ------- |
