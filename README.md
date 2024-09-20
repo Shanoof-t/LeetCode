@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanoof-t/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shanoof-t/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Shanoof-t/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shanoof-t/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shanoof-t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
