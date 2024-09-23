@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shanoof-t/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Shanoof-t/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Shanoof-t/LeetCode/tree/master/0412-fizz-buzz) |
+| [2491-smallest-even-multiple](https://github.com/Shanoof-t/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3371-harshad-number](https://github.com/Shanoof-t/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Shanoof-t/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shanoof-t/LeetCode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Shanoof-t/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
