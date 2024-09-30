@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {character}
  */
-var repeatedCharacter = function(str) {
+var repeatedCharacter = function (str) {
     // let s = str.split("")
     // let map={}
     // for(x of s){
@@ -21,15 +21,23 @@ var repeatedCharacter = function(str) {
     //     }
     // }
 
-    let res=''
-    let arr=[]
-    for(let x of str){
-        if(!arr.includes(x)){
-            arr.push(x)
-        }else {
-            res = x
-            break;
+    // let res=''
+    // let arr=[]
+    // for(let x of str){
+    //     if(!arr.includes(x)){
+    //         arr.push(x)
+    //     }else {
+    //         res = x
+    //         break;
+    //     }
+    // }
+    // return res
+
+    let set = new Set()
+    for (x of str){
+        if(set.has(x)){
+            return x
         }
+        set.add(x)
     }
-    return res
 };
