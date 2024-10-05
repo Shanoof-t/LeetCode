@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shanoof-t/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shanoof-t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Shanoof-t/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shanoof-t/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shanoof-t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shanoof-t/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
