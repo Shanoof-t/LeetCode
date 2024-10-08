@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shanoof-t/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shanoof-t/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shanoof-t/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shanoof-t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shanoof-t/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shanoof-t/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shanoof-t/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shanoof-t/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Shanoof-t/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Shanoof-t/LeetCode/tree/master/0412-fizz-buzz) |
 | [2491-smallest-even-multiple](https://github.com/Shanoof-t/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3371-harshad-number](https://github.com/Shanoof-t/LeetCode/tree/master/3371-harshad-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shanoof-t/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/Shanoof-t/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shanoof-t/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanoof-t/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/0349-intersection-of-two-arrays) |
