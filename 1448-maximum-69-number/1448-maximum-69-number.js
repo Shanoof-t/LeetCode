@@ -8,10 +8,8 @@ var maximum69Number  = function(num) {
     let l =0
     let r = n.length
     while(l<r){
-        if(n[l] == "9" ){
-            n[l] = "6"
-        }else {
-            n[l] ="9"
+        if(n[l] == "6" ){
+            n[l] = "9"
         }
         let val = n.join("")
         let v= parseInt(val)
