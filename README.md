@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shanoof-t/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shanoof-t/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Shanoof-t/LeetCode/tree/master/0412-fizz-buzz) |
+| [1448-maximum-69-number](https://github.com/Shanoof-t/LeetCode/tree/master/1448-maximum-69-number) |
 | [2491-smallest-even-multiple](https://github.com/Shanoof-t/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3371-harshad-number](https://github.com/Shanoof-t/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Shanoof-t/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Shanoof-t/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/Shanoof-t/LeetCode/tree/master/1448-maximum-69-number) |
 ## Depth-First Search
 |  |
 | ------- |
