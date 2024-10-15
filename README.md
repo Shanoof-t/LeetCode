@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shanoof-t/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/Shanoof-t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shanoof-t/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
