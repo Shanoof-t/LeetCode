@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1580-shuffle-the-array](https://github.com/Shanoof-t/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Shanoof-t/LeetCode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Shanoof-t/LeetCode/tree/master/1899-count-items-matching-a-rule) |
