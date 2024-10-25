@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Shanoof-t/LeetCode/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shanoof-t/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/Shanoof-t/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Shanoof-t/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Shanoof-t/LeetCode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Shanoof-t/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Shanoof-t/LeetCode/tree/master/0837-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Shanoof-t/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Shanoof-t/LeetCode/tree/master/2634-minimum-common-value) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Shanoof-t/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Shanoof-t/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
