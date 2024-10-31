@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shanoof-t/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/Shanoof-t/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3311-ant-on-the-boundary](https://github.com/Shanoof-t/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shanoof-t/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shanoof-t/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shanoof-t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3311-ant-on-the-boundary](https://github.com/Shanoof-t/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shanoof-t/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Shanoof-t/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3311-ant-on-the-boundary](https://github.com/Shanoof-t/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Sliding Window
 |  |
 | ------- |
