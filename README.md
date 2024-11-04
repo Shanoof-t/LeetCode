@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/Shanoof-t/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shanoof-t/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/Shanoof-t/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanoof-t/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shanoof-t/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shanoof-t/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3371-harshad-number](https://github.com/Shanoof-t/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Shanoof-t/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shanoof-t/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
