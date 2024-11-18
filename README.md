@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Shanoof-t/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Shanoof-t/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Shanoof-t/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Shanoof-t/LeetCode/tree/master/0837-most-common-word) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Shanoof-t/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Shanoof-t/LeetCode/tree/master/1848-sum-of-unique-elements) |
