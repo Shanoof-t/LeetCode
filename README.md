@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Shanoof-t/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2159-two-out-of-three](https://github.com/Shanoof-t/LeetCode/tree/master/2159-two-out-of-three) |
+| [2226-rings-and-rods](https://github.com/Shanoof-t/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Shanoof-t/LeetCode/tree/master/2634-minimum-common-value) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Shanoof-t/LeetCode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shanoof-t/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2226-rings-and-rods](https://github.com/Shanoof-t/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/Shanoof-t/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shanoof-t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
