@@ -4,10 +4,22 @@
  * @return {number[][]}
  */
 var findDifference = function (nums1, nums2) {
-    let ans1 = new Set(nums1)
-    nums2.forEach(v => { ans1.delete(v) });
-    let ans2 = new Set(nums2);
-    nums1.forEach(v => { ans2.delete(v) });
+    let set1 = new Set(nums1)
+    let set2 = new Set(nums2)
 
-    return [[...ans1], [...ans2]];
+    let res = []
+    let r1 = []
+    let r2 = []
+    for (let x of set1) {
+        if (!set2.has(x)) {
+            r1.push(x)
+        }        
+    }
+    for (let x of set2) {
+        if (!set1.has(x)) {
+            r2.push(x)
+        }
+    }
+    res.push(r1,r2)
+    return res
 };
