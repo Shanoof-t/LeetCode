@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shanoof-t/LeetCode/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/Shanoof-t/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1137-height-checker](https://github.com/Shanoof-t/LeetCode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shanoof-t/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shanoof-t/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shanoof-t/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shanoof-t/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shanoof-t/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanoof-t/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanoof-t/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
