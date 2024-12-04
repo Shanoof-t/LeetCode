@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shanoof-t/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shanoof-t/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/Shanoof-t/LeetCode/tree/master/2159-two-out-of-three) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Shanoof-t/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shanoof-t/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Shanoof-t/LeetCode/tree/master/2634-minimum-common-value) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Shanoof-t/LeetCode/tree/master/2159-two-out-of-three) |
 | [2226-rings-and-rods](https://github.com/Shanoof-t/LeetCode/tree/master/2226-rings-and-rods) |
 | [2427-first-letter-to-appear-twice](https://github.com/Shanoof-t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Shanoof-t/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Shanoof-t/LeetCode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/Shanoof-t/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shanoof-t/LeetCode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Shanoof-t/LeetCode/tree/master/0861-flipping-an-image) |
 | [2128-reverse-prefix-of-word](https://github.com/Shanoof-t/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Shanoof-t/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shanoof-t/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Shanoof-t/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shanoof-t/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Shanoof-t/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
