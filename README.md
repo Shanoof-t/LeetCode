@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shanoof-t/LeetCode/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shanoof-t/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -311,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Shanoof-t/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shanoof-t/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shanoof-t/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shanoof-t/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
