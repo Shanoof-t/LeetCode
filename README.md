@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shanoof-t/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shanoof-t/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shanoof-t/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanoof-t/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shanoof-t/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shanoof-t/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
