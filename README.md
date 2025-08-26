@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shanoof-t/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Shanoof-t/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/Shanoof-t/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanoof-t/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/Shanoof-t/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Shanoof-t/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanoof-t/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
